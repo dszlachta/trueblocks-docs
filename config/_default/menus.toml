@@ -92,7 +92,7 @@
 
 [[footer]]
   name = "Privacy"
-  url = "/privacy-policy/"
+  url = "https://docs.trueblocks.io/privacy-policy/"
   weight = 30
 
 [[footer]]
