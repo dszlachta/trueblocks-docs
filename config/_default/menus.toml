@@ -1,17 +1,17 @@
 [[main]]
   name = "Docs"
-  url = "/docs/prologue/what-is-this"
+  url = "https://docs.trueblocks.io/docs/prologue/what-is-this"
   weight = 10
 
 [[main]]
   name = "Data\u00A0Model"
-  url= "/data-model/intro/intro"
+  url= "https://docs.trueblocks.io/data-model/intro/intro"
   identifier = "data"
   weight = 30
 
 [[main]]
   name = "Blog"
-  url = "/blog/"
+  url = "https://docs.trueblocks.io/blog/"
   weight = 40
 
 [[docs]]
